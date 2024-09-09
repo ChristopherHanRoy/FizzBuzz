@@ -11,6 +11,7 @@ class FizzBuzz {
             // Find out which numbers divide i.
             i = doFizzBuzz(i);
         }
+        System.out.println("I made a change in github!");
     }
 
     public static int doFizzBuzz(int i) {
